@@ -1,7 +1,7 @@
-package com.sturc;
+package com.sturc.Strategy;
 
-import com.sturc.Fly.FlyNoWay;
-import com.sturc.Quack.Quack;
+import com.sturc.Strategy.Fly.FlyNoWay;
+import com.sturc.Strategy.Quack.Quack;
 
 public class ModelDuck extends Duck {
 

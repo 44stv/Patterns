@@ -1,7 +1,7 @@
-package com.sturc;
+package com.sturc.Strategy;
 
-import com.sturc.Fly.FlyBehavior;
-import com.sturc.Quack.QuackBehavior;
+import com.sturc.Strategy.Fly.FlyBehavior;
+import com.sturc.Strategy.Quack.QuackBehavior;
 
 public abstract class Duck {
 

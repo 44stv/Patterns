@@ -1,7 +1,8 @@
-package com.sturc;
+package com.sturc.Strategy;
 
-import com.sturc.Fly.FlyWithWings;
-import com.sturc.Quack.Quack;
+import com.sturc.Strategy.Fly.FlyWithWings;
+import com.sturc.Strategy.Quack.Quack;
+
 
 public class MallardDuck extends Duck {
 

@@ -1,4 +1,4 @@
-package com.sturc.Quack;
+package com.sturc.Strategy.Quack;
 
 public class Squeak implements QuackBehavior {
     @Override

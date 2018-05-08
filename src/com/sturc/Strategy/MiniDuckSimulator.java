@@ -1,4 +1,4 @@
-package com.sturc;
+package com.sturc.Strategy;
 
 public class MiniDuckSimulator {
 

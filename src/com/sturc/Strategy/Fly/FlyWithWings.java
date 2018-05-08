@@ -1,4 +1,4 @@
-package com.sturc.Fly;
+package com.sturc.Strategy.Fly;
 
 public class FlyWithWings implements FlyBehavior {
 
